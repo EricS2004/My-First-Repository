@@ -2,9 +2,31 @@
   font-family: sans-serif;
   text-align: center;
 }
-body {
+.row {
+  display: flex;
+  flex-direction: row;
+}
+.name {
+  background-color: silver;
+}
+.pronouns {
+  background-color: yellow;
+}
+.school {
+  background-color: magenta;
+}
+.year {
   background-color: lightblue;
 }
-img {
-  width: 400px;
+.color {
+  background-color: orange;
+}
+.platform {
+  background-color: lightcoral;
+}
+.animal {
+  background-color: seashell;
+}
+.nickname {
+  background-color: greenyellow;
 }
